@@ -4,7 +4,7 @@ title:  "Setting up my Website with GitHub Pages and Jekyll"
 date:   2025-10-21 20:17:52 -0700
 categories: [jekyll, github pages]
 ---
-I was inspired to migrate [my old blog](https://reneelearnsthings.blogspot.com/) from Blogger to GitHub Pages — thanks [Nicky](https://www.nickymasso.com/)!
+I was inspired to migrate [my old blog](https://reneelearnsthings.blogspot.com/) from Blogger to GitHub Pages &mdash; thanks [Nicky](https://www.nickymasso.com/)!
 
 ## Step-By-Step
 Setting up this website was pretty easy to do. I followed [GitHub's instructions](https://docs.github.com/en/pages/quickstart):
