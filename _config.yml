@@ -1,0 +1,11 @@
+title: Renee Desporte
+description: >-
+  Documentation of the things I learn and create.
+baseurl: ""
+url: "reneedesporte"
+github_username:  reneedesporte
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
