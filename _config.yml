@@ -4,6 +4,7 @@ description: >-
 baseurl: ""
 url: "reneedesporte"
 github_username:  reneedesporte
+linkedin_username: renee-desporte
 
 # Build settings
 theme: minima
