@@ -11,7 +11,7 @@ This is my hastily written interpretation/information-regurgitation of the diffe
 # Introduction
 We're all familiar with the Electromagnetic spectrum and where radio frequencies lie on this spectrum &mdash; radio waves are the lowest frequency of electromagnetic radiation. 
 
-![The Electromagnetic Spectrum](/assets/img/EMSpec-final.png "The Electromagnetic Spectrum") **Above: The Electromagnetic Spectrum ([sourse](https://www.nist.gov/image/electromagnetic-spectrum-graphic))**
+![The Electromagnetic Spectrum](/assets/img/EMSpec-final.png "The Electromagnetic Spectrum") **Above: The Electromagnetic Spectrum ([source](https://www.nist.gov/image/electromagnetic-spectrum-graphic))**
 
 The range of frequencies that radio waves span is vast, so the radio communications community has split the radio spectrum into different classifications. We'll go over each of these classifications below, as well as common uses for waves in each of these bands.
 
