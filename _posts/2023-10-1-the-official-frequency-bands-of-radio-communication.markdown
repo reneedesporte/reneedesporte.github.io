@@ -8,6 +8,8 @@ categories: RF
 # Disclaimer
 This is my hastily written interpretation/information-regurgitation of the different frequency bands of radio communications. Pretty much all of my information comes from various Wikipedia articles, which I've linked in the appropriate places. Take this post with a grain of salt, thanks!
 
+> **Use of AI**: This post used to live on [Blogger](https://reneelearnsthings.blogspot.com/) and was written in `HTML`. I migrated it to [my website](https://reneedesporte.github.io/jekyll/github%20pages/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll.html) (written in `markdown` for Jekyll) partially using ChatGPT.
+
 # Introduction
 We're all familiar with the Electromagnetic spectrum and where radio frequencies lie on this spectrum &mdash; radio waves are the lowest frequency of electromagnetic radiation. 
 
