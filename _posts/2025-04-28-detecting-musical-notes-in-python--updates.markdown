@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detecting Musical Notes in Python \u2014 Updates"
-date:   2024-08-02
+date:   2025-04-28
 categories: [python, signal processing]
 ---
 
