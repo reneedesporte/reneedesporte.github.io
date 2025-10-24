@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Progress and Poverty: A Non-Economist's Summary, Part One"
+title:  "Progress and Poverty: A Non-Economist's Summary, Part 1"
 date:   2025-08-26
 categories: [economics, henry george]
 ---
