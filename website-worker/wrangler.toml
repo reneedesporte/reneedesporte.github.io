@@ -1,0 +1,6 @@
+name = "reneedesporte-website"
+main = "worker.js"
+compatibility_date = "2025-10-31"
+
+[site]
+bucket = "_site"                  # Jekyll output directory
