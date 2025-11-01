@@ -3,5 +3,8 @@
     "compatibility_date": "2025-11-01",
     "assets": {
       "directory": "_site"
-    }
+    },
+    "routes": [
+        { "pattern": "reneedesporte.com/*", "zone_name": "reneedesporte.com" }
+    ]
 }
