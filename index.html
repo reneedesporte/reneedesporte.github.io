@@ -2,11 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="0; url=https://reneedesporte.com/" />
+    <meta http-equiv="refresh" content="0; url=https://reneedesporte.com${window.location.pathname}" />
     <link rel="canonical" href="https://reneedesporte.com/" />
     <title>Redirecting to reneedesporte.com...</title>
     <script>
-      window.location.replace("https://reneedesporte.com/");
+      const dest = "https://reneedesporte.com" + window.location.pathname + window.location.search + window.location.hash;
+      window.location.replace(dest);
     </script>
   </head>
   <body>
