@@ -5,6 +5,7 @@
       "directory": "_site"
     },
     "routes": [
-        { "pattern": "reneedesporte.com/*", "zone_name": "reneedesporte.com" }
+        { "pattern": "reneedesporte.com/*", "zone_name": "reneedesporte.com" },
+        {"pattern": "www.reneedesporte.com/*", "zone_name": "reneedesporte.com"}
     ]
 }
