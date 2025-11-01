@@ -1,0 +1,39 @@
+name: Build and Deploy Jekyll to Cloudflare Workers
+
+on:
+  push:
+    branches: [ main ]  # or your deploy branch
+  workflow_dispatch:     # allows manual runs
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Check out the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2️⃣ Setup Ruby and install Jekyll dependencies
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'     # adjust if needed
+          bundler-cache: true
+
+      - name: Install gems
+        run: bundle install
+
+      # 3️⃣ Build your Jekyll site
+      - name: Build site
+        run: bundle exec jekyll build
+
+      # 4️⃣ Install Wrangler CLI
+      - name: Install Wrangler
+        run: npm install -g wrangler
+
+      # 5️⃣ Deploy to Cloudflare Workers
+      - name: Deploy to Cloudflare
+        run: wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
