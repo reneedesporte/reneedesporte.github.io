@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up my Website with GitHub Pages and Jekyll"
 date:   2025-10-21 20:17:52 -0700
-categories: [jekyll, github pages]
+categories: [jekyll, github pages, website]
 ---
 I was inspired to migrate [my old blog](https://reneelearnsthings.blogspot.com/) from Blogger to GitHub Pages &mdash; thanks [Nicky](https://www.nickymasso.com/)!
 
