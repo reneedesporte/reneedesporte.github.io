@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  <div class="about-me">
+  <div class="floating-section">
     <h2>About Me</h2>
     <img 
       src="/assets/img/moi.png"
@@ -20,6 +20,14 @@ layout: default
     <p> This website is a space for me to <a href="https://en.wikipedia.org/wiki/Personal_knowledge_base">document the things I learn</a>
       and create.
     </p>
+  </div>
+
+  <div class="floating-section" style="width: 200px;">
+    <h2>Friends' Blogs</h2>
+    <ul>
+      <li><a href="https://www.nickymasso.com/">Nicky Masso</a></li>
+      <li><a href="https://phoenixfalling.net/">Lucy</a></li>
+    </ul>
   </div>
 
   {%- if site.posts.size > 0 -%}
@@ -41,7 +49,5 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 </div>
