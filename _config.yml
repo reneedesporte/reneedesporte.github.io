@@ -2,9 +2,12 @@ title: Renée Desporte
 description: >-
   Never stop learning.
 baseurl: ""
-url: "reneedesporte.github.io"
+url: "reneedesporte.com"
 github_username:  reneedesporte
 linkedin_username: renee-desporte
+undergraduate_research_paper: https://www.nature.com/articles/s41534-020-00327-5
+linkedin_full_url : https://www.linkedin.com/in/renee-desporte/
+github_full_url : https://github.com/reneedesporte
 
 # Build settings
 theme: minima

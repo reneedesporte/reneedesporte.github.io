@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.about-me {
+  float: right;
+  width: 250px;
+  margin: 0 0 1rem 1.5rem;
+  background: #f9f9f9;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+@media (max-width: 600px) {
+  .about-me {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
