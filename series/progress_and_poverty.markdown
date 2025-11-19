@@ -32,7 +32,7 @@ permalink: progress-and-poverty
   </figcaption>
 </figure>
 
-[Henry George](https://en.wikipedia.org/wiki/Henry_George)'s [_Progress and Poverty_](https://cdn.mises.org/Progress%20and%20Poverty_3.pdf), written in 1879, was and remains one of the most popular books on [political economy](https://en.wikipedia.org/wiki/Political_economy) ever written. 
+[Henry George](https://en.wikipedia.org/wiki/Henry_George)'s [_Progress and Poverty_](https://cdn.mises.org/Progress%20and%20Poverty_3.pdf), written in 1879, was one of the most popular books on [political economy](https://en.wikipedia.org/wiki/Political_economy) ever written. 
 
 <p style="text-align: center; margin-bottom: 20px;"><em>"The progress of society might be, and, if it is to continue, must be, toward equality, not toward inequality."</em></p>
 
