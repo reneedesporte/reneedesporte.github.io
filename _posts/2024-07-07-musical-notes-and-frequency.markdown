@@ -2,7 +2,7 @@
 layout: post
 title:  "Musical Notes and Frequency"
 date:   2024-07-07
-categories: [music theory, python, signal processing]
+categories: [music theory, python, signal processing, pitch detector]
 ---
 # Introduction
 This post goes hand-in-hand with [a GitHub project I'm working on](https://github.com/reneedesporte/pitch_detector). This is part of the background research that's gone into understanding pitch and frequency in the context of human hearing and the Chromatic scale.

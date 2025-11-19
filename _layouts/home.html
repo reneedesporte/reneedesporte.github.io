@@ -30,8 +30,34 @@ layout: default
     </ul>
   </div>
 
+  <div style=
+    "background: #e9e9e9ff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+    display: flow-root;"
+  >
+  <h2 class="post-list-heading">{{ page.list_title | default: "Series" }}</h2>
+    <h3>
+      <a class="post-link" href="{{ "pitch-detector" | relative_url }}">
+        {{ "Pitch Detector Project" | escape }}
+      </a>
+    </h3>
+    <h3>
+      <a class="post-link" href="{{ "progress-and-poverty" | relative_url }}">
+        {{ "Progress and Poverty" | escape }}
+      </a>
+    </h3>
+    <h3>
+      <a class="post-link" href="{{ "building-my-website" | relative_url }}">
+        {{ "Building my Website" | escape }}
+      </a>
+    </h3>
+  </div>
+
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading" style="font-size: x-large;">{{ page.list_title | default: "All Posts" }}</h2>
 
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -39,7 +65,11 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a
+            class="post-link"
+            href="{{ post.url | relative_url }}"
+            style="font-size: large"
+          >
             {{ post.title | escape }}
           </a>
         </h3>

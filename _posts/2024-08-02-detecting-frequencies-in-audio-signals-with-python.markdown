@@ -2,7 +2,7 @@
 layout: post
 title:  "Detecting Frequencies in Audio Signals with Python"
 date:   2024-08-02
-categories: [python, signal processing]
+categories: [python, signal processing, pitch detector]
 ---
 > This post's labels were updated on August 2nd, 2024, but the original post was published earlier this summer. This is a follow-up on the `pitch_detector` series.
 
