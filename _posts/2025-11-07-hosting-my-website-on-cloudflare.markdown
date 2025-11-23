@@ -17,7 +17,7 @@ categories: [
 
 If you're not new to my blog, then you may have noticed that my domain changed from [reneedesporte.github.io](https://reneedesporte.github.io/) to [reneedesporte.com](https://reneedesporte.com/). I've also changed the way I host this site: I now utilize [Cloudflare](https://www.cloudflare.com/) instead of [GitHub Pages](https://reneedesporte.com/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll/). In this post, I'll give a high-level look at [why](#motivation) and [how](#migrating-a-jekyll-site-from-github-pages-to-cloudflare-workers) I migrated my website from GitHub to Cloudflare (and set up a custom domain along the way).
 
-> **Use of AI**: I communicated with ChatGPT a lot throughout this process. We're in the era of vibe coding, and I'm here for it.
+> **Use of AI**: I used ChatGPT throughout much of this process. I think LLMs should be used with caution, as they have an impact on both [the environment](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) and the economy.
 
 # Motivation
 Why would I want to change where/how I host this website? Great question.
@@ -35,7 +35,7 @@ As I mentioned in my [last post](https://reneedesporte.com/2025/10/22/setting-up
   </iframe>
 </div>
 
-So I took a look under the hood... or I had ChatGPT take a look (I'm still new to all this HTML/CSS/JavaScript stuff). I fed [Walz's home page](https://walzr.com/)'s source code into ChatGPT who said that Walz's site was likely hosted on Cloudflare since "the HTML includes a Cloudflare beacon script at the bottom".
+So I took a look under the hood... or I had ChatGPT take a look (I'm still new to all this HTML/CSS/JavaScript stuff). I fed in [Walz's home page](https://walzr.com/)'s source code and learned that Walz's site was likely hosted on Cloudflare since "the HTML includes a Cloudflare beacon script at the bottom".
 
 That was enough for me. Well, that and the fact that [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#about-github-pages) only hosts [static sites](https://www.geeksforgeeks.org/websites-apps/static-vs-dynamic-website/).
 
