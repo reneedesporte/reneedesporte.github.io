@@ -6,9 +6,19 @@ categories: [python, signal processing, acoustics]
 ---
 Today I'll be demonstrating destructive acoustic interference &mdash; the main principle behind Active Noise Control &mdash; with Python and a simple stereo speaker! The code I wrote and used lives on GitHub. Before we jump into how it works, take a look at the before and after:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/bKjprY37uNE" frameborder="0" allowfullscreen></iframe>
+<iframe
+  style="display: block; margin-left: auto; margin-right: auto;"
+  width="420"
+  height="315"
+  src="https://www.youtube.com/embed/bKjprY37uNE"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
-> `NOTE`: To embed a YouTube video in an `HTML` post (like this one), make sure to include `/embed/` in your YouTube link.
+<div class="note">
+    <p class="note-title">Note</p>
+    <p>To embed a YouTube video in an <code>HTML</code> post (like this one), make sure to include <code>/embed/</code> in your YouTube link.</p>
+</div>
 
 It's not perfect, but it's still cool to see (hear) some effect!
 

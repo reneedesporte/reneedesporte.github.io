@@ -4,7 +4,10 @@ title:  "The Japanese Writing System"
 date:   2024-07-14
 categories: [language, japanese]
 ---
-> Most information in this post comes from [Genki](https://en.wikipedia.org/wiki/Genki:_An_Integrated_Course_in_Elementary_Japanese).
+<div class="note">
+    <p class="note-title">Note</p>
+    <p>Most information in this post comes from <a href="https://en.wikipedia.org/wiki/Genki:_An_Integrated_Course_in_Elementary_Japanese">Genki</a>.</p>
+</div>
 
 - **_Hiragana_** and **_katakana_** are letters, i.e., they represent sounds.
     - **_Hiragana_** is generally used for words of Japanese origin.

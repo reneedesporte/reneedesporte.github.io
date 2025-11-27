@@ -15,6 +15,44 @@
   clear: right;
 }
 
+.important {
+  width: auto;
+  float: none;
+  clear: none;
+  background: rgb(237, 237, 237);
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  font-size: 120%;
+}
+
+.important .important-subtext {
+  text-align: right;
+  font-size: 80%;  // From `important`'s size
+}
+
+.note {
+  width: auto;
+  float: none;
+  clear: none;
+  background: #fff0fd;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  border: 2px solid #ca78c0;
+  box-shadow: 0 1px 4px #0000000d;
+}
+
+.note .note-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 120%;
+}
+
 @media (max-width: 600px) {
   .floating-section {
     float: none;

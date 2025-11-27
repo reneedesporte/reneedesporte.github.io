@@ -11,13 +11,22 @@ With recent talk of a [50 year mortgage](https://www.npr.org/2025/11/12/nx-s1-56
 
 (See [my first post](https://www.reneedesporte.com/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) in this series for definitions of the **bolded terms**.) In this post, I'll tackle Books 4, 5, and 6: ["Effect of Material Progress upon the Distribution of **Wealth**"](#book-4-effect-of-material-progress-upon-the-distribution-of-wealth), ["The Problem Solved"](#book-5-the-problem-solved), and ["The Remedy"](#book-6-the-remedy).
 
-> **Skip ahead** to the [Conclusion](#conclusion) if you're not interested in the play-by-play.
+<div class="note">
+    <p class="note-title">Skip Ahead</p>
+    <p>Skip ahead to the <a href="https://www.reneedesporte.com/2025/11/18/progress-and-poverty-a-non-economists-summary-part-4/#conclusion">Conclusion</a> if you're not interested in the play-by-play.</p>
+</div>
 
-> **Disclaimer**: As the title of this series indicates, I'm _not_ an economist. This is a laywoman's attempt at succinctly stating Henry George's economic philosophy in her own words.
+<div class="note">
+    <p class="note-title">Disclaimer</p>
+    <p>As the title of this series indicates, I'm <em>not</em> an economist. This is a laywoman's attempt at succinctly stating Henry George's economic philosophy in her own words.</p>
+</div>
 
 # Book 4: Effect of Material Progress upon the Distribution of **Wealth**
 
-> **NOTE**: I'll be skipping chapter summaries where they feel unnecessary, e.g., for Book 4, Chapter 1.
+<div class="note">
+    <p class="note-title">Note</p>
+    <p>I'll be skipping chapter summaries where they feel unnecessary, e.g., for Book 4, Chapter 1.</p>
+</div>
 
 Ok, let's accept George's assertion that high **rent** causes low **wages**. <mark><em>But what causes high <strong>rent</strong>?</em></mark>
 
@@ -56,7 +65,7 @@ In the quote below, George marvels at the paradoxical consequences of **labor**-
 # Book 5: The Problem Solved
 ## Chapter 1: The Primary Cause of Recurring Paroxysms of Industrial Depression
 George starts Book 5 off boldly, with the claim that
-<div style="text-align: center; font-size: 120%"><mark>Speculative advance in <strong>land</strong> values is the main cause of economic depression.</mark></div>
+<div class="important"><mark>Speculative advance in <strong>land</strong> values is the main cause of economic depression.</mark></div>
 
 Economic depressions cyclically affect the industrialized world. George acknowledges that there are many other aspects of the modern economy that contribute to its instability, e.g., "the growing complexity and interdependence of the machinery of production" (263). However, speculative advance in **rent** is the _main_ cause (see pages 264 &ndash; 265).
 
@@ -78,7 +87,9 @@ George argues that the cycle between <strong>land</strong> speculation and econo
 
 ## Chapter 2: The Persistence of Poverty Amid Advancing **Wealth**
 George has now fully outlined his theory which explains the problem for which this book is named:
-<div style="text-align: center; font-size: 150%; margin-bottom:20px;"><mark>Widespread <em>poverty</em> despite material <em>progress</em> is caused by <em>high <strong>rent</strong></em></mark>, which is in turn caused by <strong>land monopolies</strong> brought about by speculative purchases and holding of <strong>land</strong>.</div>
+<div class="important">
+  <mark>Widespread <em>poverty</em> despite material <em>progress</em> is caused by <em>high <strong>rent</strong></em></mark>, which is in turn caused by <strong>land monopolies</strong> brought about by speculative purchases and holding of <strong>land</strong>.
+</div>
 
 This theory, George argues, explains every economic observation to date (see page 287):
 - Why low **wages** exist despite high productive power;

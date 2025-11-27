@@ -4,7 +4,7 @@ title:  "Progress and Poverty: A Non-Economist's Summary, Part 1"
 date:   2025-08-28
 categories: [economics, henry george]
 ---
-I'm not an economist, but I'm currently experiencing a bit of Henry George monomania. My interest was first peaked a long time ago by [this Mr. Beat video](youtube.com/watch?si=m5CZPiAff_MvaVD3&v=6c5xjlmLfAw&feature=youtu.be) and has since been reignited by my living in San Francisco, [where George first started his career](https://en.wikipedia.org/wiki/Henry_George#Personal_life).
+I'm not an economist, but I'm currently experiencing a bit of Henry George monomania. My interest was first peaked a long time ago by [this Mr. Beat video](https://youtu.be/6c5xjlmLfAw?si=SDg5FYAXF8qv0e9J) and has since been reignited by my living in San Francisco, [where George first started his career](https://en.wikipedia.org/wiki/Henry_George#Personal_life).
 
 I'm not saying that I like Henry George as a person or that I agree with his theories.
 

@@ -17,7 +17,10 @@ categories: [
 
 If you're not new to my blog, then you may have noticed that my domain changed from [reneedesporte.github.io](https://reneedesporte.github.io/) to [reneedesporte.com](https://reneedesporte.com/). I've also changed the way I host this site: I now utilize [Cloudflare](https://www.cloudflare.com/) instead of [GitHub Pages](https://reneedesporte.com/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll/). In this post, I'll give a high-level look at [why](#motivation) and [how](#migrating-a-jekyll-site-from-github-pages-to-cloudflare-workers) I migrated my website from GitHub to Cloudflare (and set up a custom domain along the way).
 
-> **Use of AI**: I used ChatGPT throughout much of this process. I think LLMs should be used with caution, as they have an impact on both [the environment](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) and the economy.
+<div class="note">
+    <p class="note-title">Use of AI</p>
+    <p>I used ChatGPT throughout much of this process. I think LLMs should be used with caution, as they have an impact on both <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117">the environment</a> and the economy.</p>
+</div>
 
 # Motivation
 Why would I want to change where/how I host this website? Great question.

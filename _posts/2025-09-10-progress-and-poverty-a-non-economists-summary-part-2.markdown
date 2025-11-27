@@ -4,7 +4,7 @@ title:  "Progress and Poverty: A Non-Economist's Summary, Part 2"
 date:   2025-09-10
 categories: [economics, henry george]
 ---
-In [part 1](https://reneedesporte.github.io/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) of my summary series for Henry George's [_Progress and Poverty_](https://cdn.mises.org/Progress%20and%20Poverty_3.pdf), I summarized "Book 1: Wages and Capital". In summary of my summary (lol), George asserts that **wages** are not derived from **capital** (see my last post for the definitions of those terms).
+In [part 1](https://www.reneedesporte.com/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) of my summary series for Henry George's [_Progress and Poverty_](https://cdn.mises.org/Progress%20and%20Poverty_3.pdf), I summarized "Book 1: Wages and Capital". In summary of my summary (lol), George asserts that **wages** are not derived from **capital** (see my last post for the definitions of those terms).
 
 This post is part 2 of the series, summarizing Book 2 of _Progress and Poverty_: "Population and Subsistence". My goal is still conciseness, but I've provided an [addendum to this post](#addendum) for some of the juiciest Henry George quotes &mdash; he definitely has some mic drop moments.
 

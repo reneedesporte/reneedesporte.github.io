@@ -4,7 +4,10 @@ title:  "Lecture 0 of Harvard's CS50x"
 date:   2024-07-08
 categories: [computer science]
 ---
-> **Use of AI**: This post used to live on [Blogger](https://reneelearnsthings.blogspot.com/) and was written in `HTML`. I migrated it to [my website](https://reneedesporte.github.io/jekyll/github%20pages/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll.html) (written in `markdown` for Jekyll) partially using ChatGPT.
+<div class="note">
+    <p class="note-title">Use of AI</p>
+    <p>This post used to live on <a href="https://reneelearnsthings.blogspot.com/">Blogger</a> and was written in <code>HTML</code>. I migrated it to <a href="https://www.reneedesporte.com/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll/">my website</a> (written in <code>markdown</code> for Jekyll) partially using ChatGPT.</p>
+</div>
 
 # Introduction
 I'm just watching the videos from [this course](https://cs50.harvard.edu/x/) to get a more formal understanding of some fundamental concepts in CS, such as efficiency and [Big O](https://en.wikipedia.org/wiki/Big_O_notation) notation. I won't be doing the problem sets, though they're free to access of Harvard edX website!
@@ -36,4 +39,7 @@ I'm just watching the videos from [this course](https://cs50.harvard.edu/x/) to 
 # Conclusion
 Not too much new info in the first lecture, but the lecturer is interesting and engaging!
 
-> **Edit**: I've decided not to proceed with future lectures, as they seem a bit too basic for my level of coding experience. But I may refer to to the SQL lecture later, since I have very little experience with that!
+<div class="note">
+    <p class="note-title">Edit</p>
+    <p>I've decided not to proceed with future lectures, as they seem a bit too basic for my level of coding experience. But I may refer to to the SQL lecture later, since I have very little experience with that!</p>
+</div>

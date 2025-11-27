@@ -4,7 +4,10 @@ title:  "Bayes' Theorem"
 date:   2024-07-02
 categories: statistics
 ---
-> **Use of AI**: This post used to live on [Blogger](https://reneelearnsthings.blogspot.com/) and was written in `HTML`. I migrated it to [my website](https://reneedesporte.github.io/jekyll/github%20pages/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll.html) (written in `markdown` for Jekyll) partially using ChatGPT.
+<div class="note">
+    <p class="note-title">Use of AI</p>
+    <p>This post used to live on <a href="https://reneelearnsthings.blogspot.com/">Blogger</a> and was written in <code>HTML</code>. I migrated it to <a href="https://www.reneedesporte.com/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll/">my website</a> (written in <code>markdown</code> for Jekyll) partially using ChatGPT.</p>
+</div>
 
 # Introduction
 

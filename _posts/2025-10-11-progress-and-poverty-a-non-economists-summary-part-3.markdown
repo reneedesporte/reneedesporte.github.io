@@ -5,16 +5,22 @@ date:   2025-10-11
 categories: [economics, henry george]
 ---
 
-> **Use of AI**: I occasionally used ChatGPT to alter the formatting (HTML, markdown, etc. )of this post.
+<div class="note">
+  <p class="note-title">Use of AI</p>
+  <p>I occasionally used ChatGPT to alter the formatting (HTML, markdown, etc.) of this post.</p>
+</div>
 
-Welcome to episode 3 of my summary series on Henry George's _Progress and Poverty_, his most seminal work. In my [last post](https://reneedesporte.github.io/2025/09/10/progress-and-poverty-a-non-economists-summary-part-2/), I summarized George's points against Thomas Malthus and his theory on Population and Subsistence. Combining these arguments with those that George makes in [Book 1](https://reneedesporte.github.io/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/), we arrive again at George's main question:
+Welcome to episode 3 of my summary series on Henry George's _Progress and Poverty_, his most seminal work. In my [last post](https://www.reneedesporte.com/2025/09/10/progress-and-poverty-a-non-economists-summary-part-2/), I summarized George's points against Thomas Malthus and his theory on Population and Subsistence. Combining these arguments with those that George makes in [Book 1](https://www.reneedesporte.com/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/), we arrive again at George's main question:
 
 <div style="text-align: center;">
   <mark>What <em>economic</em> laws can explain poverty in the face of increasing wealth-producing power?</mark>
 </div>
 
 This post will tackle "Book III: The Laws of Distribution" [of Wealth]. It is a hefty section &mdash; the densest so far &mdash; so buckle up.
-> `NOTE`: If you'd rather skip the ride, (because to be frank I included a lot of unnecessary quotes and explanations &mdash; I just really like the way Henry George writes) please jump ahead to ["Chapter 8: The Statics of the Problem Thus Explained"](#chapter-8-the-statics-of-the-problem-thus-explained).
+<div class="note">
+    <p class="note-title">Note</p>
+    <p>If you'd rather skip the ride, (because to be frank I included a lot of unnecessary quotes and explanations &mdash; I just really like the way Henry George writes) please jump ahead to <a href="https://www.reneedesporte.com/2025/10/11/progress-and-poverty-a-non-economists-summary-part-3/#chapter-8-the-statics-of-the-problem-thus-explained">Chapter 8: The Statics of the Problem Thus Explained</a>.</p>
+</div>
 
 # Book 3: The Laws of Distribution
 ## Chapter 1: The Inquiry Narrowed to the Laws of Distribution &mdash; The Necessary Relation of These Laws
@@ -22,13 +28,13 @@ George begins this chapter by reiterating his previous points, namely that **wag
 
 I should note that **wealth** is _wholly_ re-distributed into **rent**, **wages**, and **interest**, i.e., there's no such thing as left-over or excess **wealth** &mdash; it all goes back into the **wealth**-production cycle (see [Addendum Quote 1](#quote-1)).
 
-I'll update my figure from [part 1](https://reneedesporte.github.io/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) of this series to show the complete cycle:
+I'll update my figure from [part 1](https://www.reneedesporte.com/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) of this series to show the complete cycle:
 
 ![Full wealth distribution cycle](/assets/img/henry_george_full_wealth_distribution_cycle.png) **Figure 1: The means of production of wealth and its distribution to rent, wages, and interest.**
 
 George also introduces a new term in this chapter: profits, which is a synonym for **wealth** (see [Addendum Quote 2](#quote-2)).
 
-George's main goal is to map out the ways in which **wealth** gets distributed to **rent**, **wages** and **interest**. Historically, economists had viewed **capital** as the driving economic force with "the capitalist as the central figure" (163). But George has already proved in [previous chapters](https://reneedesporte.github.io/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) that **capital** is _not necessary_ to produce **wealth** &mdash; only **land** and **labor** (remember my Minecraft metaphor from Part 1?). 
+George's main goal is to map out the ways in which **wealth** gets distributed to **rent**, **wages** and **interest**. Historically, economists had viewed **capital** as the driving economic force with "the capitalist as the central figure" (163). But George has already proved in [previous chapters](https://www.reneedesporte.com/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/) that **capital** is _not necessary_ to produce **wealth** &mdash; only **land** and **labor** (remember my Minecraft metaphor from Part 1?). 
 
 Of **land** and **labor**, George argues that <mark><strong>land</strong> is the primary driver of <strong>wealth</strong> production</mark>:
 
@@ -106,8 +112,8 @@ There are, however, unnatural and wrong forms of profits [that is, **wealth**] m
 
 This is really the crux of George's argument &mdash; his fundamental truth.
 
-<div style="text-align: center;">
-  <mark><strong><span style="font-size: 150%;">Relative gains and losses are not wealth.</span></strong></mark>
+<div class="important">
+  <mark>Relative gains and losses are not wealth.</mark>
 </div>
 
 Debts, exorbitant **rent**, gambling, etc. These things are _not_ **wealth**, despite what many believe.
@@ -122,7 +128,7 @@ Furthermore, because **labor** and **capital** are the same, their returns &mdas
 
 > "For if **wages** fall, **interest** must also fall in proportion, else it becomes more profitable to turn **labor** into **capital** than to apply it directly; while, if **interest** falls, **wages** must likewise proportionately fall, or else the increment of **capital** would be checked." (199)
 
-_We already knew all this_ (see [Chapter 2](#chapter-2-rent-and-the-law-of-rent)'s formula or [Book 1: Wages and Capital](https://reneedesporte.github.io/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/)).
+_We already knew all this_ (see [Chapter 2](#chapter-2-rent-and-the-law-of-rent)'s formula or [Book 1: Wages and Capital](https://www.reneedesporte.com/2025/08/28/progress-and-poverty-a-non-economists-summary-part-1/)).
 
 Finally, because **wages** and **interest** are really one and the same, George concludes this:
 
@@ -158,8 +164,8 @@ This chapter is a recapitulation of everything we've learned in Book 3 so far: *
 ## Chapter 8: The Statics of the Problem Thus Explained
 Book 3 can be summarized in one phrase:
 
-<div style="text-align: center;">
-  <mark><strong><span style="font-size: 200%;">Low wages are caused by high rent.</span></strong></mark>
+<div class="important">
+  <mark>Low <strong>wages</strong> are caused by high <strong>rent</strong>.</mark>
 </div>
 
 We can see this in the formula from [Chapter 2](#chapter-2-rent-and-the-law-of-rent) and in anecdotal observations:
@@ -187,8 +193,8 @@ The above is a picture of a normal, healthy economy. But let's imagine an _unfai
 
 This may leave the reader wondering...
 
-<div style="text-align: center;">
-  <mark><span style="font-size: 150%;">What causes high <strong>rent</strong>?</span></mark>
+<div class="important">
+  <mark>What causes high <strong>rent</strong>?</mark>
 </div>
 
 # Conclusion

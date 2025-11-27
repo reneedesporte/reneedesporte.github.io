@@ -6,7 +6,7 @@ categories: [python, signal processing, pitch detector]
 ---
 
 # Introduction
-In my [last post](https://reneedesporte.github.io/2024/08/02/detecting-frequencies-in-audio-signals-with-python/), I introduced my [`pitch_detector`](https://github.com/reneedesporte/pitch_detector) project, the goal of which is to detect musical notes from recorded audio. In this post, I'll provide a quick update on my (very slow) progress on the project:
+In my [last post](https://www.reneedesporte.com/2024/08/02/detecting-frequencies-in-audio-signals-with-python/), I introduced my [`pitch_detector`](https://github.com/reneedesporte/pitch_detector) project, the goal of which is to detect musical notes from recorded audio. In this post, I'll provide a quick update on my (very slow) progress on the project:
 - Using [`uv`](https://docs.astral.sh/uv/)
 - Calculating musical notes from frequency
 - Writing tests
@@ -22,7 +22,7 @@ musical_note, octave = f(frequency_Hz)
 ```
 
 ## [12 equal temperament](https://en.wikipedia.org/wiki/12_equal_temperament)
-As discussed in [previous posts](https://reneedesporte.github.io/2024/08/02/detecting-frequencies-in-audio-signals-with-python/), musical notes of the chromatic scale are equal-tempered (equidistant) on a logarithmic scale, which we can see clearly if we look at frequencies of the 0th octave:
+As discussed in [previous posts](https://www.reneedesporte.com/2024/08/02/detecting-frequencies-in-audio-signals-with-python/), musical notes of the chromatic scale are equal-tempered (equidistant) on a logarithmic scale, which we can see clearly if we look at frequencies of the 0th octave:
 
 ![Logarithmic plot](/assets/img/desmos_plot_frequencies.png)
 

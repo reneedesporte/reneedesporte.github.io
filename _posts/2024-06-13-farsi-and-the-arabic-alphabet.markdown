@@ -5,7 +5,11 @@ date:   2024-06-13
 categories: [language, farsi]
 ---
 # Disclaimers
-> **Use of AI**: This post used to live on [Blogger](https://reneelearnsthings.blogspot.com/) and was written in `HTML`. I migrated it to [my website](https://reneedesporte.github.io/jekyll/github%20pages/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll.html) (written in `markdown` for Jekyll) partially using ChatGPT.
+
+<div class="note">
+    <p class="note-title">Use of AI</p>
+    <p>This post used to live on <a href="https://reneelearnsthings.blogspot.com/">Blogger</a> and was written in <code>HTML</code>. I migrated it to <a href="https://www.reneedesporte.com/2025/10/22/setting-up-my-website-with-github-pages-and-jekyll/">my website</a> (written in <code>markdown</code> for Jekyll) partially using ChatGPT.</p>
+</div>
 
 Almost everything I write about here I learned from Modern Persian: A Complete Course for Beginners by John Mace. Another great resource is [Persian Language Online](https://www.blogger.com/blog/post/edit/1991829543020552279/2251805351535458500#). These two sources are much more valuable than this article will be.
 

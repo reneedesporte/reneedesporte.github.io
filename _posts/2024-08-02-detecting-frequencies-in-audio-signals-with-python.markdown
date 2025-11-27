@@ -4,12 +4,18 @@ title:  "Detecting Frequencies in Audio Signals with Python"
 date:   2024-08-02
 categories: [python, signal processing, pitch detector]
 ---
-> This post's labels were updated on August 2nd, 2024, but the original post was published earlier this summer. This is a follow-up on the `pitch_detector` series.
+<div class="note">
+    <p class="note-title">Note</p>
+    <p>This post's labels were updated on August 2nd, 2024, but the original post was published earlier this summer. This is a follow-up on the <a href="https://www.reneedesporte.com/pitch-detector"><code>pitch_detector</code> series</a>.</p>
+</div>
 
 # Introduction
-In my [previous post](https://reneedesporte.github.io/2024/07/07/musical-notes-and-frequency/), I mentioned that the necessity for a deeper dive into the Fourier Transform for finding frequencies in the context of my [`pitch_detector`](https://github.com/reneedesporte/pitch_detector) project. Instead of explaining the deeper conceptual ideas behind the Fourier Transform in this post (since [others](https://www.youtube.com/watch?v=spUNpyF58BY) have done a better job of that than I could here today), I'll go over my basic code approach to the `pitch_detector` project.
+In my [previous post](https://www.reneedesporte.com/2024/07/07/musical-notes-and-frequency/), I mentioned that the necessity for a deeper dive into the Fourier Transform for finding frequencies in the context of my [`pitch_detector`](https://github.com/reneedesporte/pitch_detector) project. Instead of explaining the deeper conceptual ideas behind the Fourier Transform in this post (since [others](https://www.youtube.com/watch?v=spUNpyF58BY) have done a better job of that than I could here today), I'll go over my basic code approach to the `pitch_detector` project.
 
-> `NOTE`: This post a journey through the trials and tribulations of writing code. Skip ahead to the [Conclusion section](#conclusion) to see where things went wrong (spoiler: it was just an array shape thing).
+<div class="note">
+    <p class="note-title">Note</p>
+    <p>This post a journey through the trials and tribulations of writing code. Skip ahead to the <a href="https://www.reneedesporte.com/2024/08/02/detecting-frequencies-in-audio-signals-with-python/#conclusion">Conclusion section</a> to see where things went wrong (spoiler: it was just an array shape thing).</p>
+</div>
 
 As always, there's lot of great resources out there for Signal Processing, like [MIT's DSP course](https://www.youtube.com/watch?v=rkvEM5Y3N60&list=PL8157CA8884571BA2), [Iain Explains](https://www.youtube.com/@iain_explains), and Wikipedia.
 
@@ -63,7 +69,7 @@ We expect to see a peak at 82 Hz, so let's zoom in on the plot:
 
 ![Zoomed in positive frequencies](/assets/img/zoomed_in_positive_freqs.PNG)
 
-**This FFT plot is extremely noisy**, i.e., something doesn't seem right, which is what I was confused about in [my previous post](https://reneedesporte.github.io/2024/07/07/musical-notes-and-frequency/). The musical note should be very clear and loud compared to background noise. I even saved the array to a wavfile, so I could re-play it on my computer and give it a listen. So why does the FFT plot look so bad?
+**This FFT plot is extremely noisy**, i.e., something doesn't seem right, which is what I was confused about in [my previous post](https://www.reneedesporte.com/2024/07/07/musical-notes-and-frequency/). The musical note should be very clear and loud compared to background noise. I even saved the array to a wavfile, so I could re-play it on my computer and give it a listen. So why does the FFT plot look so bad?
 
 ## Saving the Audio to Wavfile
 
