@@ -54,7 +54,8 @@
 }
 
 @media (max-width: 600px) {
-  .floating-section {
+  .floating-section,
+  .important {
     float: none;
     width: 100%;
     margin: 1rem 0;
