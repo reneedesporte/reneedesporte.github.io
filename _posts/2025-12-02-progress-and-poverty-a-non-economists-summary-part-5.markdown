@@ -104,11 +104,7 @@ Taxing **rent** is therefore the _only_ tax that _increases production_ by disso
 Other economists, e.g., [Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) and [Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), had already endorsed **rent** taxes before George wrote _Progress and Poverty_ in the late 1800s. Others disagreed. I'll likely write a separate post on this debate some other time.
 
 # Conclusion
-In Books 7 & 8, Henry George finally arrived at the conclusion I've been waiting for: <mark>the <strong>land</strong> value tax</mark>. While the practical implementation of this tax is not yet clear to me &mdash;
-
-<p style="max-width: 32rem; margin: 1rem auto; text-align: center;">George mentions only a partial or total collection of "<strong>rent</strong>" by the State, but I don't know if he means <strong>rent</strong> in the political economy definition (the return for use of <strong>land</strong> alone, not any <strong>capital</strong>, e.g., houses, on that <strong>land</strong>) or also in <a href="https://www.merriam-webster.com/dictionary/rent">the general sense of the word</a>.</p>
-
-&mdash; I'm relieved to finally have <em>some</em> implementation of George's Remedy, which inspired so many in his day.
+In Books 7 & 8, Henry George finally arrived at the conclusion I've been waiting for: <mark>the <a href="https://en.wikipedia.org/wiki/Land_value_tax"><strong>land</strong> value tax</a></mark>, though the practical implementation of this tax is not yet fully clear to me.
 
 # References
 George, Henry. _Progress and Poverty_. New York, Kingsport Press, 1934 (Sixth Printing). [https://cdn.mises.org/Progress%20and%20Poverty_3.pdf](https://cdn.mises.org/Progress%20and%20Poverty_3.pdf)
