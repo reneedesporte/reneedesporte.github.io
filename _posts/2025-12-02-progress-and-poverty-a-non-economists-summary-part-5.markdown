@@ -100,6 +100,17 @@ In general, Henry George hates taxes, since "taxation which lessens the reward o
 Taxing **rent** is therefore the _only_ tax that _increases production_ by dissolving these speculative **land** holdings (hoardings?):
 > "If **land** were taxed to anything near its **rental** value, no one could afford to hold **land** that he was not using, and, consequently, **land** not in use would be thrown open to those who would use it." (413)
 
+**See this section of Mr. Beat's video (feat. Jacob Clifford), on how the land value tax avoids [deadweight loss](https://en.wikipedia.org/wiki/Deadweight_loss):**
+
+<iframe
+  style="display: block; margin-left: auto; margin-right: auto;"
+  width="420"
+  height="315"
+  src="https://www.youtube.com/embed/6c5xjlmLfAw?si=Mbj4MNfOXfq8nTEo&amp;start=638"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ## Chapter 4: Indorsements and Objections
 Other economists, e.g., [Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) and [Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), had already endorsed **rent** taxes before George wrote _Progress and Poverty_ in the late 1800s. Others disagreed. I'll likely write a separate post on this debate some other time.
 
